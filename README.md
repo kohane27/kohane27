@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -18,7 +18,6 @@
     height="40"
   />
 </a>
-<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
