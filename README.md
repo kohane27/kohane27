@@ -16,7 +16,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kohane27&"
+    src="https://github-readme-streak-stats-eosin-nine.vercel.app/?user=kohane27&"
     alt="kohane27"
   />
 </p>
