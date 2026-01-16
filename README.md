@@ -10,7 +10,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kohane27&show_icons=true&locale=en"
+    src="https://github-readme-stats-kohane27.vercel.app/api?username=kohane27&show_icons=true&locale=en"
     alt="kohane27"
   />
 </p>
